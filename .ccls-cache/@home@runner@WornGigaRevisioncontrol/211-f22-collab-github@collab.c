@@ -17,9 +17,11 @@
 #include <stdio.h>
 
 void asaee2_mkhan333(){
-  printf("My Name Ali Saeed");
+  printf("My Name Ali Saeed and Zarak Khan\n");
   
-  printf("Learn that github is widely used with in the development industry");
+  printf("Learn that github is widely used with in the development industry\n");
+  
+  printf("One problem I had was getting my student Github account setup, It was having trouble validating my enrollment.\n");
 }
 void reed_ekidan2() {
   printf("Dale Reed and Ellen Kidane\n");
